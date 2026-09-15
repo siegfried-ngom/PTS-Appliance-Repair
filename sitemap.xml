@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://ptsappliancerepair.ca/en/</loc></url>
+  <url><loc>https://ptsappliancerepair.ca/en/about.html</loc></url>
+  <url><loc>https://ptsappliancerepair.ca/en/our-promise.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/en/contact.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/en/privacy.html</loc></url>
+  <url><loc>https://ptsappliancerepair.ca/en/services/</loc></url>
   <url><loc>https://ptsappliancerepair.ca/en/services/refrigerator-repair.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/en/services/washer-repair.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/en/services/dryer-repair.html</loc></url>
@@ -95,8 +98,11 @@
   <url><loc>https://ptsappliancerepair.ca/en/pickering/microwave-repair.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/en/pickering/rangehood-repair.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/fr/</loc></url>
+  <url><loc>https://ptsappliancerepair.ca/fr/about.html</loc></url>
+  <url><loc>https://ptsappliancerepair.ca/fr/nos-engagements.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/fr/contact.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/fr/privacy.html</loc></url>
+  <url><loc>https://ptsappliancerepair.ca/fr/services/</loc></url>
   <url><loc>https://ptsappliancerepair.ca/fr/services/refrigerator-repair.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/fr/services/washer-repair.html</loc></url>
   <url><loc>https://ptsappliancerepair.ca/fr/services/dryer-repair.html</loc></url>

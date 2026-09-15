@@ -8,7 +8,7 @@ Pure HTML5, CSS3 and Vanilla JavaScript. No package install is required.
 node build.js
 ```
 
-The script generates 188 localized pages (168 city/service pages, 14 service hubs, 2 homepages, 2 contact pages and 2 privacy pages), `sitemap.xml`, `image-sitemap.xml`, `robots.txt`, and the shared files under `assets/`.
+The script generates 194 localized pages (168 city/service pages, 14 service hubs, 2 service indexes, 2 homepages, 2 About pages, 2 Promise pages, 2 contact pages and 2 privacy pages), `sitemap.xml`, `image-sitemap.xml`, `robots.txt`, and the shared files under `assets/`.
 
 ## Preview
 
